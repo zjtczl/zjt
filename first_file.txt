@@ -2,4 +2,12 @@ First time using git, excited! update ...
 insert line here...改代码
 第二次用git
 inseret line agein 加代码
+加点新内容
+update version3
+--------------------------------------------------------------------------
+在工作区新增一个readme.md文本文件（内容随便写）。
+[root@st git_repm]# vim readme.md
 
+已读文件 git很强大
+
+-------------------------------------------------
